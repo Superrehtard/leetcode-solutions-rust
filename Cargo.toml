@@ -1,5 +1,5 @@
 [package]
-name = "valid_palindrome_125"
+name = "leetcode-solutions-rust"
 version = "0.1.0"
 edition = "2024"
 
